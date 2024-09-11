@@ -6,9 +6,6 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
-[Aa]ssets/**/*.cs.meta
-[Aa]ssets/**/*.prefab.meta
-[Aa]ssets/**/*.unity.meta
 
 # Visual Studio files
 .vs/
